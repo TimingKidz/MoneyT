@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+            android:id="@+id/item_home"
+            android:enabled="true"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="@string/menu_home"/>
+    <item
+            android:id="@+id/item_summary"
+            android:enabled="true"
+            android:icon="@drawable/ic_show_chart_black_24dp"
+            android:title="Summary"/>
+    <item
+            android:id="@+id/item_add"
+            android:enabled="true"
+            android:icon="@drawable/ic_add_circle_black_24dp"
+            android:title="Add"/>
+    <item
+            android:id="@+id/item_nearby"
+            android:enabled="true"
+            android:icon="@drawable/ic_nearby_black_24dp"
+            android:title="@string/menu_nearby"/>
+    <item
+            android:id="@+id/item_more"
+            android:enabled="true"
+            android:icon="@drawable/ic_more_horiz_black_24dp"
+            android:title="@string/menu_more"/>
+
+</menu>

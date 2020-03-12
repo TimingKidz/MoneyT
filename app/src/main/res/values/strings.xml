@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">MoneyT</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_favorite">Favorites</string>
+    <string name="menu_add">Add</string>
+    <string name="menu_nearby">Nearby</string>
+    <string name="menu_more">More</string>
+
+    <string name="num_plus">+</string>
+    <string name="num_minus">-</string>
+    <string name="num_divide">÷</string>
+    <string name="num_multiply">×</string>
+    <string name="num_percent">%</string>
+    <string name="num_back">back</string>
+    <string name="num_c">c</string>
+    <string name="num_result">=</string>
+
+    <string name="num_0">0</string>
+    <string name="num_00">00</string>
+    <string name="num_1">1</string>
+    <string name="num_2">2</string>
+    <string name="num_3">3</string>
+    <string name="num_4">4</string>
+    <string name="num_5">5</string>
+    <string name="num_6">6</string>
+    <string name="num_7">7</string>
+    <string name="num_8">8</string>
+    <string name="num_9">9</string>
+
+    <string name="lorel">
+        Lorem ipsum dolor sit amet, alii modo hinc vix ut, mel ad esse lorem, cu voluptua verterem quaestio quo. Dicat
+        postulant delicatissimi his id. Ut cum soleat verterem pertinacia, dicat veritus id has. Mea an stet utamur, cum
+        ex enim fierent delicata. Quo congue essent eu. Euripidis tincidunt disputationi vel ut, ne nec deleniti
+        pertinax convenire, ne sapientem argumentum vel.
+
+        Nam dolore recusabo platonem ne, cibo illud abhorreant at vel. Alii disputando delicatissimi sit ea, vel ei
+        ancillae atomorum inciderint, has errem dolores ex. Amet iudico saperet et cum, lorem causae nominati has at.
+        Veri nominavi eu sed, erat eirmod cu eum. Mentitum persecuti persequeris has ei, ubique cetero nominavi ei mel,
+        eum no discere incorrupte. Reque animal ne mea, qui ex ipsum tollit, eam accusata intellegat efficiendi ex.
+
+        Ei zril efficiendi mea, mel dicunt patrioque ne. Iriure voluptatibus vim an, sit diam tota euripidis ei, id per
+        suas dolor neglegentur. Eu cum putent rationibus. Ea eros magna noluisse vim, probo justo eam no. His ut clita
+        viderer.
+
+        Cu pro ridens eligendi, vim cu clita utamur atomorum. Cu amet detraxit nam. Sit an partem audire, id agam
+        diceret civibus vel. Ut his timeam eripuit vulputate.
+
+        Ei ignota euripidis pri, ut eum vocent vidisse virtute. Vix an facete deleniti, vis falli detraxit eu. Mei id
+        ullum utamur. In nostro quaerendum pro, ex cum modo moderatius inciderint, id usu voluptua consetetur. Nec no
+        duis singulis, mel apeirian complectitur at, vidit virtute concludaturque eu cum.
+
+        Id sit invenire interpretaris, vel ex dictas blandit patrioque, feugait electram pro in. Dico volutpat
+        conclusionemque mel eu, has augue tincidunt ea, eu dico alia nec. Amet cetero concludaturque id sit. Ius equidem
+        menandri at. Usu facer vocent dignissim in, minim possim platonem ut est, at vel ignota libris. An utroque
+        pericula voluptatibus cum.
+
+        Est id urbanitas gloriatur disputando, ad mei ignota voluptua, per vidit nostrud cu. Mel elit maiorum torquatos
+        ad. Qui in erant admodum, pri te phaedrum abhorreant. Ex etiam doctus inciderint pro, vel errem adolescens id,
+        ea case perpetua eum.
+
+        Mea no nusquam detraxit, pri ea adhuc delicata deterruisset, vel fabellas maluisset ne. Mea iusto eligendi
+        facilisi an, ius ad oportere maiestatis, magna antiopam sadipscing no vel. Et his iisque eruditi. Ceteros
+        partiendo similique eum id. Natum nulla dolore est an, qui numquam feugait appetere in.
+
+        In ius dicunt ancillae, vel te summo exerci. Ex nec splendide consequat. Ad noster molestie per, equidem
+        invidunt splendide eum ut. Ne labores perpetua pro, ea qui case mandamus scribentur.
+
+        Te viderer tincidunt mel, cu choro veniam fabellas usu. Ad impedit nostrum qui. Tollit dicant at sit. Affert
+        delectus mediocrem et his, id praesent democritum ius. In mel possit fierent reformidans, te cetero feugait
+        torquatos mel, veritus graecis mel an. Vivendum elaboraret at mea, mollis torquatos scripserit te qui.
+
+        Sea at nullam prodesset, sed ea saperet dolorum vivendum, mea an alia definitionem. Tamquam mediocrem et vel,
+        nonumes vituperata te quo. An idque urbanitas inciderint eos. An nam iusto habemus volutpat, sit consequat
+        voluptaria in, id congue mediocrem mei. Sit habemus suavitate tincidunt et, est an esse duis accusata, cu
+        commodo oporteat dissentiet vim. Eros lobortis consequuntur in sea, graeco scaevola consequat mel te.
+    </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_catagories">Catagories</string>
+</resources>
